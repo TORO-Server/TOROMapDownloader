@@ -1,0 +1,2 @@
+# TOROMapDownloader
+TOROサーバーのDynmapから地図をpngファイルでダウンロード
